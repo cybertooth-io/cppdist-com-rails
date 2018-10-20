@@ -1,0 +1,14 @@
+[ver:1,total:5580]
+app/controllers/token_authentications_controller.rb:1259,1539982800:668,1539986400:542,1539990000:45,1540011600:4,m
+test/controllers/token_authentications_controller_test.rb:1003,1539982800:844,1539986400:159,m
+test/controllers/renewals_controller_test.rb:826,1539986400:20,1539990000:758,1540011600:48,d
+test/controllers/refresh_tokens_controller_test.rb:439,1540011600:439,m
+.gtm/terminal.app:365,1539982800:30,1539986400:179,1539990000:90,1540011600:66,r
+config/routes.rb:287,1539982800:143,1539990000:60,1540011600:84,m
+test/controllers/refresh_cookies_controller_test.rb:250,1540011600:250,m
+test/test_helper.rb:249,1539982800:194,1539986400:20,1540011600:35,m
+app/controllers/renewals_controller.rb:232,1539986400:12,1539990000:200,1540011600:20,d
+app/controllers/refresh_tokens_controller.rb:223,1540011600:223,m
+app/controllers/cookie_authentications_controller.rb:191,1539982800:120,1539986400:16,1539990000:47,1540011600:8,m
+app/controllers/refresh_cookies_controller.rb:139,1540011600:139,m
+test/controllers/cookie_authentications_controller_test.rb:117,1539982800:101,1539986400:12,1540011600:4,m
