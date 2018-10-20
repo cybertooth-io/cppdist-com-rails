@@ -1,0 +1,4 @@
+[ver:1,total:1140]
+test/controllers/api/v1/protected/sessions_controller_test.rb:540,1540011600:540,m
+app/controllers/application_controller.rb:390,1540011600:390,r
+.gtm/terminal.app:210,1540011600:210,r
