@@ -1,0 +1,4 @@
+[ver:1,total:360]
+.gtm/terminal.app:180,1540364400:180,r
+app/controllers/api/v1/protected/base_resource_controller.rb:150,1540364400:150,m
+config/initializers/health_check.rb:30,1540364400:30,r
