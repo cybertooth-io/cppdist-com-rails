@@ -1,0 +1,15 @@
+[ver:1,total:1980]
+README.md:1007,1540346400:1007,m
+config/locales/en.yml:230,1540346400:230,m
+.gtm/terminal.app:182,1540346400:182,r
+app/resources/api/v1/protected/session_resource.rb:104,1540346400:104,m
+Gemfile:97,1540346400:97,m
+app/resources/api/v1/protected/role_resource.rb:91,1540346400:91,m
+app/resources/api/v1/protected/user_resource.rb:77,1540346400:77,r
+app/models/session.rb:60,1540346400:60,r
+app/controllers/api/v1/protected/roles_controller.rb:30,1540346400:30,r
+test/fixtures/users.yml:30,1540346400:30,r
+test/controllers/cookie_authentications_controller_test.rb:30,1540346400:30,r
+config/routes.rb:20,1540346400:20,r
+app/policies/user_policy.rb:15,1540346400:15,r
+app/resources/api/v1/protected/base_resource.rb:7,1540346400:7,r
