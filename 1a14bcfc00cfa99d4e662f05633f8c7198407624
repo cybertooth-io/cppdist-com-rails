@@ -1,0 +1,8 @@
+[ver:1,total:960]
+app/controllers/api/v1/protected/sessions_controller.rb:528,1540350000:528,m
+app/controllers/application_controller.rb:138,1540350000:138,m
+.gtm/terminal.app:105,1540350000:105,r
+test/controllers/api/v1/protected/sessions_controller_test.rb:99,1540350000:99,m
+app/policies/session_policy.rb:30,1540350000:30,r
+app/resources/api/v1/protected/session_resource.rb:30,1540350000:30,r
+app/models/role.rb:30,1540350000:30,r
