@@ -1,0 +1,10 @@
+[ver:1,total:840]
+app/resources/api/v1/protected/user_resource.rb:222,1540350000:222,r
+.gtm/terminal.app:210,1540346400:120,1540350000:90,r
+app/policies/session_policy.rb:115,1540346400:75,1540350000:40,r
+app/models/role.rb:92,1540350000:92,m
+app/resources/api/v1/protected/session_resource.rb:87,1540346400:75,1540350000:12,r
+app/resources/api/v1/protected/base_resource.rb:72,1540350000:72,r
+config/routes.rb:15,1540346400:15,r
+app/policies/user_policy.rb:15,1540346400:15,r
+app/resources/api/v1/protected/role_resource.rb:12,1540350000:12,r
