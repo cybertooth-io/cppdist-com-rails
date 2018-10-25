@@ -1,0 +1,10 @@
+[ver:1,total:1500]
+.gtm/terminal.app:680,1540486800:360,1540501200:320,r
+app/controllers/cookie_authentications_controller.rb:320,1540501200:320,m
+app/controllers/token_authentications_controller.rb:190,1540501200:190,m
+config/routes.rb:110,1540501200:110,r
+app/controllers/api/v1/protected/base_resource_controller.rb:80,1540501200:80,m
+app/controllers/refresh_cookies_controller.rb:50,1540501200:50,m
+app/controllers/application_controller.rb:30,1540501200:30,m
+app/controllers/refresh_tokens_controller.rb:20,1540501200:20,m
+test/controllers/api/v1/protected/base_resource_controller_test.rb:20,1540501200:20,r
