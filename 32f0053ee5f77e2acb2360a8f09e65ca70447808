@@ -1,0 +1,14 @@
+[ver:1,total:2640]
+log/development.log:772,1540749600:730,1540753200:42,r
+db/migrate/20181028184336_install_audited.rb:643,1540749600:223,1540753200:420,m
+Gemfile:490,1540749600:170,1540753200:320,m
+config/initializers/jwt_session.rb:375,1540749600:375,r
+app/policies/application_policy.rb:162,1540749600:150,1540753200:12,m
+app/controllers/api/v1/protected/base_resource_controller.rb:59,1540749600:47,1540753200:12,m
+app/models/user.rb:50,1540753200:50,m
+app/models/role.rb:32,1540753200:32,m
+db/migrate/20181024050635_create_session_activities.rb:24,1540749600:24,r
+app/controllers/refresh_tokens_controller.rb:12,1540753200:12,r
+config/initializers/backtrace_silencers.rb:7,1540749600:7,r
+config/application.rb:7,1540749600:7,r
+config/environments/test.rb:7,1540749600:7,r
